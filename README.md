@@ -1,16 +1,42 @@
-# React + Vite
+# Smart Student Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based student productivity dashboard that helps students manage tasks, track attendance, and organize notes.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+* Task Management (Add, Edit, Delete, Complete)
+* Attendance Tracker
+* Attendance Percentage Calculation
+* Notes Management
+* Starred Notes
+* Dashboard Overview
+* Recent Tasks Section
+* Responsive Design
+* Dark/Light Theme
+* Local Storage Persistence
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* React
+* React Router DOM
+* Tailwind CSS
+* React Icons
+* Local Storage
 
-## Expanding the ESLint configuration
+## Learning Outcomes
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React Hooks (useState, useEffect)
+* Props and State Management
+* CRUD Operations
+* Array Methods (map, filter, reduce)
+* Local Storage
+* Responsive UI Design
+* Dark Mode Implementation
+
+## Future Improvements
+
+* Search Tasks
+* Search Notes
+* Attendance Alerts
+* Task Priority Levels
+* Charts and Analytics
