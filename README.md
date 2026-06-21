@@ -1,6 +1,6 @@
 ## Live Demo
 
-Coming Soon 🚀
+https://smart-student-dashboard-beta.vercel.app/ 🚀
 
 # Smart Student Dashboard
 
