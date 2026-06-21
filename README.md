@@ -1,3 +1,7 @@
+## Live Demo
+
+Coming Soon 🚀
+
 # Smart Student Dashboard
 
 A React-based student productivity dashboard that helps students manage tasks, track attendance, and organize notes.
