@@ -44,3 +44,19 @@ A React-based student productivity dashboard that helps students manage tasks, t
 * Attendance Alerts
 * Task Priority Levels
 * Charts and Analytics
+
+
+
+## Screenshots
+
+### Home Page
+![Home](./screenshots/home-light.png)
+
+### Dark Mode
+![Dark Mode](./screenshots/home-dark.png)
+
+### Tasks Page
+![Tasks](./screenshots/tasks.png)
+
+### Attendance Page
+![Attendance](./screenshots/attendance.png)
